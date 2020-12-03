@@ -5,7 +5,11 @@ VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day1", "Day1", "{AA7ABE14-D700-49F1-AF7A-B4D09ACC6C34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode2020.Day1", "AdventOfCode2020.Day1\AdventOfCode2020.Day1.csproj", "{DB69B25A-A8F9-4921-9257-EF5D70BCF5C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdventOfCode2020.Day1", "AdventOfCode2020.Day1\AdventOfCode2020.Day1.csproj", "{DB69B25A-A8F9-4921-9257-EF5D70BCF5C5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day2", "Day2", "{ED11ECD1-D54C-4736-9718-6118BBE34AF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode2020.Day2", "AdventOfCode2020.Day2\AdventOfCode2020.Day2.csproj", "{178E35E9-ECB3-4530-9905-E5C83983ECA1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +21,17 @@ Global
 		{DB69B25A-A8F9-4921-9257-EF5D70BCF5C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB69B25A-A8F9-4921-9257-EF5D70BCF5C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB69B25A-A8F9-4921-9257-EF5D70BCF5C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{178E35E9-ECB3-4530-9905-E5C83983ECA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{178E35E9-ECB3-4530-9905-E5C83983ECA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{178E35E9-ECB3-4530-9905-E5C83983ECA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{178E35E9-ECB3-4530-9905-E5C83983ECA1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{DB69B25A-A8F9-4921-9257-EF5D70BCF5C5} = {AA7ABE14-D700-49F1-AF7A-B4D09ACC6C34}
+		{178E35E9-ECB3-4530-9905-E5C83983ECA1} = {ED11ECD1-D54C-4736-9718-6118BBE34AF7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DCF733D4-A50F-4A39-87FD-2B0FBA780CC7}
